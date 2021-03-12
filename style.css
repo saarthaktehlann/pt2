@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
+
+
+body{
+  background-color: black;
+  background: url("pics/bg1.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.sec{
+
+}
+
+.title{
+  color: black;
+  font-family: Caveat,sans-serif;
+  font-weight: 700;
+  font-size: 100px;
+  /* align-items: center; */
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 40px;
+  transition: all 0.5s ease;
+  margin-bottom: 30px;
+}
+
+.title:hover{
+  text-decoration: line-through;
+
+}
+
+.sec .text-3 span{
+  color: black;
+  font-family: Caveat,sans-serif;
+  font-weight: 300;
+  font-size: 50px;
+  /* align-items: center; */
+  text-align: center;
+  margin-left: 40%;
+  transition: all 0.3s ease;
+  margin-bottom: 30px;
+}
+
+.sec .text-4 span{
+  color: black;
+  font-family: Caveat,sans-serif;
+  font-weight: 300;
+  font-size: 50px;
+  /* align-items: center; */
+  text-align: center;
+  margin-left: 40%;
+  transition: all 0.3s ease;
+}
+
+.sec .text-5 span{
+  color: black;
+  font-family: Caveat,sans-serif;
+  font-weight: 300;
+  font-size: 50px;
+  /* align-items: center; */
+  text-align: center;
+  margin-left: 40%;
+  transition: all 0.3s ease;
+}
+
+.sec .text-3 span:hover{ color: #f1e9e6;}
+.sec .text-4 span:hover{color: #f1e9e6;}
+.sec .text-5 span:hover{color: #f1e9e6;}
+
+/* body{
+  cursor:url("cursor1.png"),pointer;
+} */
